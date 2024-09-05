@@ -1,0 +1,15 @@
+{"intents": [
+  {
+    "tag": "Internet",
+    "patterns": ["Intro to internet"],
+    "responses": ["The Internet is a global network of computers connected to each other which communicate through a standardized set of protocols."],
+    "context_set": ["https://cs.fyi/guide/how-does-internet-work",]
+  },
+{
+    "tag": "Internet",
+    "patterns": ["How does internet work"],
+    "responses": ["The Internet is a global network of computers connected to each other which communicate through a standardized set of protocols."],
+
+  },
+
+]}
