@@ -972,10 +972,17 @@
   },
 
   {
-    "tag": "",
-    "patterns": [""],
-    "responses": [""],
-    "context_set": [""]
+    "tag": "OContinue Learning",
+    "patterns": ["Basic Infrastructure knowledge_DevOps"],
+    "responses": ["Roadmap Linked"],
+    "context_set": ["https://roadmap.sh/devops?r=devops-beginner"]
+  },
+
+  {
+    "tag": "Continue Learning",
+    "patterns": ["Basic Infrastructure knowledge_fullstack"],
+    "responses": ["Roadmap Linked"],
+    "context_set": ["https://roadmap.sh/full-stack"]
   }
 
 ]
