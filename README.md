@@ -1,6 +1,5 @@
 # sadaakAI
 ### your one stop solution for learning guidance.
-=======
 <br>
 # Settup Guide
 
