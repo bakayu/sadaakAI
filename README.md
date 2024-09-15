@@ -14,6 +14,7 @@ git clone https://github.com/bakayu/sadaakAI.git
 cd sadaakAI
 ```
 <br>
+
 2. Required dependencies can be found in [requirements.txt](requirements.txt), run the following code to install them on your machine/python envrionment (conda environment is recommended).
 
 ``` bash
