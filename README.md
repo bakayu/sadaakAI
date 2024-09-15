@@ -27,5 +27,3 @@ __Note:__ This is a work in progress project, due to it not being hosted on the 
 ``` bash
 python3 main.py
 ```
->>>>>>> 6978106 (updated readme.md)
-
